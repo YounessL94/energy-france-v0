@@ -1,0 +1,12 @@
+{
+  "name": "energy-france-v0",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Prototype V0 du diagnostic Energy France",
+  "scripts": {
+    "build": "node build-static.mjs",
+    "dev": "node server.js",
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,14 @@
+# Le dépôt de déploiement contient uniquement le code de la V0.
+*
+!/.gitignore
+!/.openai/
+!/.openai/hosting.json
+!/package.json
+!/README.md
+!/build-static.mjs
+!/server.js
+!/index.html
+!/styles.css
+!/app.js
+!/scoring.js
+!/scoring.test.js
